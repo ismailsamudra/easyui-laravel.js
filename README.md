@@ -1,4 +1,4 @@
-# easyui-laravel.js
+# easyui-datagrid-laravel
  *Firmwork
  - https://www.jeasyui.com/
  - https://laravel.com/
