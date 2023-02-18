@@ -1,5 +1,8 @@
 # easyui-laravel.js
-
+ *Firmwork
+ - https://www.jeasyui.com/
+ - https://laravel.com/
+ 
 Cara penggunaan
 
 pasang code di bawah pada meta header halaman laravel anda
